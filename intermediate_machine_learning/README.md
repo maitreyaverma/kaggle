@@ -8,4 +8,14 @@ they are teaching code for the housing price competition, lets try to learn that
 ## Missing Values
 * filtering values which are not numbers
 * dropping na columns - isany() in a column of dataframe
-* imputation
+* imputation - if there is any na value, then we can use imputer to use a mean value
+## Categorical Variables
+* using categorical variables to use for textual data when not having the numbers
+* using LabelEncoder for that purpose
+* one-hot-encoding
+## Pipelines
+* Using pipeline for smooth training and stuff
+* add pre preocessing step in pipeling and then pass data directly through pipeline
+## Cross Validation
+* using cross validation for model
+* graphing and choosing the best parameter
