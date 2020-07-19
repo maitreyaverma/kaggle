@@ -19,3 +19,7 @@ they are teaching code for the housing price competition, lets try to learn that
 ## Cross Validation
 * using cross validation for model
 * graphing and choosing the best parameter
+## XGBoost
+* using xgboost library to make better predictions
+## Data Leakage
+* existience of leakage in training data
